@@ -38,7 +38,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>PVTopology</mainClass>
+                            <mainClass>TopologyMain</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
